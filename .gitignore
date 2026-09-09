@@ -1,0 +1,10 @@
+# Dependências / temporários
+node_modules/
+*.log
+
+# Scripts de captura/validação (temporários)
+_*.py
+shot-*.png
+mppro*.png
+mppro*.html
+mppro*.css
